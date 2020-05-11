@@ -54,7 +54,7 @@ logo = MR SAHIL JUTT
 \033[1;96mAuthor  \033[1;93m: \033[1;92m SAHIL
 \033[1;96mInstagram \033[1;93m: \033[1;Flow SAHIL
 \033[1;96mFacebook  \033[1;93m: \033[1; SAHILJUTT060@GMAIL.COM
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/shahid-12/sahil/wafa.py
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/shahid-12/sahil/wafa
 \033[1;91m======================================="""
 
 def tik():
@@ -78,7 +78,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m Sahil
 \033[1;96mInstagram \033[1;93m: \033[1;92mFlow Sahil
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Sahiljutt060@gmail.com 
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/shahid-12/sahil/wafa.py
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/shahid-12/sahil/wafa
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
